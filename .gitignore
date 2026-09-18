@@ -1,0 +1,18 @@
+# 运行期生成的数据文件
+empFile.txt
+
+# 编译产物
+empSys
+empSys.exe
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.user
+*.suo
+~$*
+*.tmp
